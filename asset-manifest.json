@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/achrafh17.github.io/shortify-url-frontend/static/css/main.ac574808.css",
+    "main.js": "/achrafh17.github.io/shortify-url-frontend/static/js/main.1137ca08.js",
+    "static/js/453.a6a97343.chunk.js": "/achrafh17.github.io/shortify-url-frontend/static/js/453.a6a97343.chunk.js",
+    "index.html": "/achrafh17.github.io/shortify-url-frontend/index.html",
+    "main.ac574808.css.map": "/achrafh17.github.io/shortify-url-frontend/static/css/main.ac574808.css.map",
+    "main.1137ca08.js.map": "/achrafh17.github.io/shortify-url-frontend/static/js/main.1137ca08.js.map",
+    "453.a6a97343.chunk.js.map": "/achrafh17.github.io/shortify-url-frontend/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac574808.css",
+    "static/js/main.1137ca08.js"
+  ]
+}
