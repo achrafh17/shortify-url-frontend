@@ -1,10 +1,9 @@
 import "./App.css";
-import react from "react";
-import { useState, useRef } from "react";
+
+import { useState } from "react";
 function App() {
   const [inputurl, setinputurl] = useState("");
   const [shorturl, setShorturl] = useState("");
-  const inputref = useRef();
   const handlleshorturl = () => {
     fetch("http://localhost:3000/app", {
       method: "POST",
