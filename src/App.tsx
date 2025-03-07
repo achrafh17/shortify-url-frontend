@@ -5,7 +5,7 @@ function App() {
   const [inputurl, setinputurl] = useState("");
   const [shorturl, setShorturl] = useState("");
   const handlleshorturl = () => {
-    fetch("http://localhost:3000/app", {
+    fetch("https://shoritfy-url-backend-production.up.railway.app/app", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
